@@ -2,14 +2,14 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "huangyong.config.NFruitsCollectorConfig",
+      "sourceType": "com.nsu.huangyong.config.NFruitsCollectorConfig",
       "name": "nsu.huangyong.base",
-      "type": "huangyong.config.NFruitsCollectorConfig"
+      "type": "com.nsu.huangyong.config.NFruitsCollectorConfig"
     }
   ],
   "properties": [
     {
-      "sourceType": "huangyong.config.NFruitsCollectorConfig",
+      "sourceType": "com.nsu.huangyong.config.NFruitsCollectorConfig",
       "name": "nsu.huangyong.base.common-head-portrait",
       "type": "java.lang.String"
     }
